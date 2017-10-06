@@ -97,7 +97,7 @@
 	          "maxzoom": 15
         }
     },
-    "sprite": "https://raw.githubusercontent.com/roesneb/hikerfy-styles/master/icons",
+    "sprite": "https://rawgit.com/roesneb/hikerfy-styles/master/icons/",
     "glyphs": "mapbox://fonts/mapbox/{fontstack}/{range}.pbf",
     "layers": [
         {
